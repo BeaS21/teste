@@ -8,4 +8,8 @@ commit?
 
 vou alterar isto!
 
+<<<<<<< HEAD
 malvado!
+=======
+malvado! owo
+>>>>>>> a036e710165bfe9f49596eecec1cefcea475aeba
